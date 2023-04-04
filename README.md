@@ -1,2 +1,2 @@
 # Modelos3d
-Portfolio de algunos modelos 3d
+Mi repositorio es una plataforma en línea para almacenar y compartir modelos 3D
